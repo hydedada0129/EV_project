@@ -6,6 +6,8 @@ import mysql.connector
 from openpyxl import load_workbook
 from datetime import datetime
 from dropbox.files import WriteMode
+from secrets_loader import get_secret
+
 
 #pip install mysql-connector-python openpyxl
 #save your excel template in project root folder
@@ -27,7 +29,7 @@ OUTPUT_PATH = f'filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx'
 #load .env
 load_dotenv()
 
-ACCESS_TOKEN = os.getenv('DROPBOX_TOKEN')
+# ACCESS_TOKEN = os.getenv('DROPBOX_TOKEN')
 DROPBOX_FOLDER = os.getenv('DROPBOX_FOLDER', '/')
 
 if not ACCESS_TOKEN:
@@ -83,6 +85,14 @@ def upload_file_to_dropbox(local_path: str) -> str:
 
 # main: run the script
 if __name__== "__main__":
+    #Fetch secret from AWS
+    try:
+        my_secret = get_secret()
+        print("Secret retrieved successfully.")  # optional, for debug only
+    except Exception as e:
+        print(f"Failed to retrieve secret: {e}")
+        exit(1)  # Exit if secret is critical
+
     data = fetch_latest_submission()
     fill_excel(data)
     try:
