@@ -3,6 +3,8 @@ import json
 import dropbox
 from secrets_loader import get_secret
 
+# local_path = f'/home/oem/wordpress-docker/filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx'
+
 def upload_file_to_dropbox(local_path: str, dropbox_folder: str = '/upload reports') -> str:
     """
     將本地檔案上傳到 Dropbox 的指定資料夾，返回 Dropbox 上的完整路徑。
@@ -33,8 +35,14 @@ def upload_file_to_dropbox(local_path: str, dropbox_folder: str = '/upload repor
         raise RecursionError(f'Dropbox Verification Failed: {e}')
     
     #Dropbox path for uploading file
-    filename = os.path.basename(local_path)
+    filename = os.path.basename(local_path) #only extract file name, without folder
+    # local_path = /home/oem/wordpress-docker/filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx
+    # filename =  filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx
     dropbox_path = os.path.join(dropbox_folder, filename).replace("\\", "/")
+    # dropbox_path = /upload reports/filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx
+
+    print(f'file name: {filename}')
+    print(f'dropbox path: {dropbox_path}')
 
     #uploads file
     try:

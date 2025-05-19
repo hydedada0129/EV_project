@@ -1,33 +1,30 @@
-#!/usr/bin/env python3
 import os
 import dropbox
-from dotenv import load_dotenv
 import mysql.connector
 from openpyxl import load_workbook
 from datetime import datetime
 from dropbox.files import WriteMode
-
 from secrets_loader import get_secret
 from upload_to_db import upload_file_to_dropbox
+from fastapi import FastAPI
 
-#TO DO: requirements.txt
-#save your excel template in project root folder
+app = FastAPI()
 
-#connect to MySQL
+# connect to MySQL
 DB_CONFIG = {
-    'host':     '127.0.0.1',         #local machine's mysql
-    'port':     3007,                #local machine's port      
-    'user':     'wpuser',
+    'host': '127.0.0.1',
+    'port': 3007,
+    'user': 'wpuser',
     'password': 'wppassword',
     'database': 'wpdb',
 }
 
-TEMPLATE_PATH = 'Report_Template_without_pics.xlsx'
-#TO DO: output file format= machineName_id_datetime_
-OUTPUT_PATH = f'filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx'
+TEMPLATE_PATH = '/home/oem/wordpress-docker/Report_Template_without_pics.xlsx'
+OUTPUT_FOLDER = '/home/oem/wordpress-docker/reports'
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
 
 def fetch_latest_submission(submission_id=None):
-    """Fetch one submission record from the database."""
     conn = mysql.connector.connect(**DB_CONFIG)
     cursor = conn.cursor(dictionary=True)
     sql = "SELECT id, user_id, field_1, field_2, created_at FROM wp_submissions"
@@ -42,9 +39,8 @@ def fetch_latest_submission(submission_id=None):
     conn.close()
     return row
 
-# function: fill value into Excel
-def fill_excel(row):
-    """load the template, write data into cells, and save a new file"""
+
+def fill_excel(row, output_path):
     if not row:
         raise ValueError("no data found in the database.")
     wb = load_workbook(TEMPLATE_PATH)
@@ -53,29 +49,28 @@ def fill_excel(row):
     ws['H22'] = row['field_1']
     ws['A34'] = row['field_2']
 
-    wb.save(OUTPUT_PATH)
-    print(f'generated excel file: {OUTPUT_PATH}')
+    wb.save(output_path)
+    print(f'generated excel file: {output_path}')
 
-def main():
+
+def run_report():
+    filename = f'filled_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx'
+    output_path = os.path.join(OUTPUT_FOLDER, filename)
+
+    data = fetch_latest_submission()
+    if not data:
+        raise ValueError("New report is not found.")
+
+    fill_excel(data, output_path)
+    dest = upload_file_to_dropbox(output_path)
+    print(f'Excel report has been uploaded: {dest}')
+    return dest
+
+
+@app.post("/generate_report")
+def generate():
     try:
-        data = fetch_latest_submission()
-        if not data:
-            raise ValueError("New report is not found.")
-        #fill the submission data into Excel report (OUTPUT_PATH)
-        fill_excel(data)        
-
-        #upload to Dropbox
-        dest = upload_file_to_dropbox(OUTPUT_PATH)
-        print(f'Excel report has been uploaded: {dest}')
-
-        # 清理本地檔案 (not decide yet, comment it first)
-        # os.remove(OUTPUT_PATH)
-        # print(f'本地檔案已清理：{OUTPUT_PATH}')
-
+        dest = run_report()
+        return {"status": "success", "dropbox_path": dest}
     except Exception as e:
-        print(f"執行失敗：{e}")
-        exit(1)     #1 : force terminates the whole Python script, and return a non-zero code to Operation System.
-
-
-if __name__== "__main__":
-    main()
+        return {"status": "error", "message": str(e)}
