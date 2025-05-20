@@ -2,6 +2,7 @@ import os
 import json
 import dropbox
 from secrets_loader import get_secret
+from dropbox.files import WriteMode
 
 def upload_file_to_dropbox(local_path: str, dropbox_folder: str = '/upload reports') -> str:
     """
@@ -39,7 +40,9 @@ def upload_file_to_dropbox(local_path: str, dropbox_folder: str = '/upload repor
     #uploads file
     try:
         with open(local_path, 'rb') as f:
-            dbx.files_upload(f.read(), dropbox_path)    #f.read(): read it as binary and out into memory
+            # dbx.files_upload(f.read(), dropbox_path)    #f.read(): read it as binary and out into memory
+            dbx.files_upload(f.read(), dropbox_path, mode=WriteMode('overwrite'))
+
         print(f'Uploaded to Dropbox: {dropbox_path}')
         return dropbox_path     #return to main(), tells main() where it uploaded.
     except Exception as e:
