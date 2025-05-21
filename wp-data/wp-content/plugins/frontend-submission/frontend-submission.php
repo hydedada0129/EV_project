@@ -25,7 +25,7 @@ add_action('init', function () {
             'user_id'          => get_current_user_id(),                        // 當前用戶 ID
             'machine_name'     => sanitize_text_field($_POST['machine_name']),  // 機器名稱
             'job_number'       => sanitize_text_field($_POST['job_number']),    // 工作編號
-            'date_submitted'   => sanitize_text_field($_POST['date_submitted']), // 提交日期
+            'date_submitted'   => sanitize_text_field($_POST['date_submitted']), // 提交日期(working date)
             'site_address'     => sanitize_textarea_field($_POST['site_address']), // 地址
             'model_number'     => sanitize_text_field($_POST['model_number']),  // 型號
             'serial_number'    => sanitize_text_field($_POST['serial_number']), // 序號
