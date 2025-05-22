@@ -11,6 +11,7 @@ services:
     volumes:
       - ./wp-data:/var/www/html   #掛載你本機的 ./wp-data 到容器的 /var/www/html
                                   #將你的 WordPress 程式碼跟上傳檔案保存在主機目錄，可直接用編輯器修改、重啟容器後不丟失。
+      - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
   db: #設定 MySQL
     image: mysql:5.7
 
@@ -18,6 +19,7 @@ services:
     ports:
       - "3007:3306" 
     environment:  
+      TZ: Asia/Taipei   # 加上這一行設定時區
       MYSQL_DATABASE: wpdb  #在 MySQL 容器啟動時自動建立指定的資料庫與使用者
       MYSQL_USER: wpuser
       MYSQL_PASSWORD: wppassword

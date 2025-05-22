@@ -36,7 +36,7 @@ def fetch_latest_submission():
                onsite_date, onsite_start, onsite_end, work_description, 
                created_at, photo_url
         FROM wp_submissions
-        WHERE created_at >= NOW() - INTERVAL 5 MINUTE
+        WHERE created_at >= NOW() - INTERVAL 6 MINUTE
     """
     
     try:
@@ -48,43 +48,31 @@ def fetch_latest_submission():
         conn.close()
 
 
-def resize_image_to_fit(img_path, max_width=320, max_height=400):
-    """縮放圖片以適合 LibreOffice Calc，保留原始格式"""
+def calculate_image_scale(img_path, max_width=400, max_height=320):
+    """計算圖片縮放比例以適合指定尺寸，保持縱橫比"""
     try:
-        with PILImage.open(img_path) as img:
-            # 保存原始資訊用於除錯
-            original_size = img.size
-            original_format = img.format
-            original_mode = img.mode
-            print(f"原始圖片資訊: 尺寸={original_size}, 格式={original_format}, 模式={original_mode}")
+        with PILImage.open(img_path) as pil_img:
+            orig_width, orig_height = pil_img.size
+            print(f"原始圖片尺寸: {orig_width}x{orig_height}")
             
-            # 縮放圖片
-            img.thumbnail((max_width, max_height), PILImage.Resampling.LANCZOS)
+            # 計算縮放比例 (保持縱橫比)
+            scale_w = max_width / orig_width
+            scale_h = max_height / orig_height
+            scale_factor = min(scale_w, scale_h)
             
-            # 生成臨時檔案名，保留原始副檔名
-            file_ext = os.path.splitext(img_path)[1]
-            if not file_ext:
-                # 如果沒有副檔名，根據格式設置
-                file_ext = '.png' if original_format == 'PNG' else '.jpg'
-                
-            resized_path = f"temp_resized_{os.path.basename(img_path)}{file_ext}"
+            # 計算新尺寸
+            new_width = int(orig_width * scale_factor)
+            new_height = int(orig_height * scale_factor)
             
-            # 處理透明通道但不轉換格式
-            if original_format == 'PNG' and (img.mode in ('RGBA', 'LA') or (img.mode == 'P' and 'transparency' in img.info)):
-                # 對於 PNG 格式，直接保存，保留透明度
-                img.save(resized_path, 'PNG')
-                print(f"圖片已縮放，保存為原始 PNG 格式: {resized_path}")
-            else:
-                # 其他格式也保持不變
-                img.save(resized_path, original_format if original_format else 'JPEG')
-                print(f"圖片已縮放，保存為原始格式 {original_format}: {resized_path}")
+            print(f"縮放後尺寸: {new_width}x{new_height} (縮放比例: {scale_factor:.3f})")
+            return new_width, new_height
             
-            return resized_path
     except Exception as e:
-        print(f"圖片處理失敗: {e}")
+        print(f"計算圖片縮放比例失敗: {e}")
         import traceback
         traceback.print_exc()
-        return None
+        return None, None
+
 
 def download_images(photo_urls):
     """下載圖片到臨時資料夾"""
@@ -157,15 +145,6 @@ def cleanup_temp_photos():
     if os.path.exists("temp_photos"):
         shutil.rmtree("temp_photos")
         print("已刪除 temp_photos 資料夾。")
-    
-    # 清理暫存的縮放圖片
-    for file in os.listdir('.'):
-        if file.startswith('temp_resized_'):
-            try:
-                os.remove(file)
-                print(f"已刪除暫存圖片: {file}")
-            except Exception as e:
-                print(f"刪除暫存圖片失敗: {e}")
 
 
 def fill_excel(row, output_path):
@@ -219,23 +198,25 @@ def fill_excel(row, output_path):
         for i in range(photos_to_process):
             try:
                 img_path = image_paths[i]
-                print(f"處理第 {i+1} 張照片，原始路徑: {img_path}")
+                print(f"處理第 {i+1} 張照片，路徑: {img_path}")
                 
-                # 縮放圖片並轉換格式
-                resized_path = resize_image_to_fit(img_path)
-                if not resized_path:
-                    print(f"圖片處理失敗，跳過此圖片")
+                # 計算圖片縮放尺寸（保持原始圖片質量）
+                new_width, new_height = calculate_image_scale(img_path, max_width=400, max_height=320)
+                if not new_width or not new_height:
+                    print(f"無法計算圖片縮放尺寸，跳過此圖片")
                     continue
-                
-                print(f"縮放後的圖片路徑: {resized_path}")
                 
                 # 獲取下一個可用的位置
                 position = PHOTO_POSITIONS[processed_count]
                 
+                # 創建 Excel 圖片物件並設置尺寸
+                img = XLImage(img_path)
+                img.width = new_width
+                img.height = new_height
+                
                 # 插入圖片到 Excel
-                img = XLImage(resized_path)
                 ws.add_image(img, position)
-                print(f"已將圖片添加到位置 {position}")
+                print(f"已將圖片添加到位置 {position}，尺寸: {new_width}x{new_height}")
                 
                 # 增加已處理的計數
                 processed_count += 1

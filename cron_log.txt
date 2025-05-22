@@ -1,0 +1,1500 @@
+generated excel file: filled_20250519_144401.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_144501.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_144601.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_144702.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_144801.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_144902.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145001.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145102.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145201.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145301.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145402.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145501.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145601.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145702.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+generated excel file: filled_20250519_145801.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker
+generated excel file: filled_20250519_145902.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+$
+generated excel file: filled_20250519_150001.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+/home/oem/wordpress-docker/run_script.sh: line 6: press-docker/.venv/bin/python: No such file or directory
+/home/oem/wordpress-docker/.venv
+/home/oem/wordpress-docker/run_script.sh: line 6: home/oem/wordpress-docker/.venv/bin/python: No such file or directory
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150301.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150402.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150501.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150602.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150701.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150801.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_150902.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151001.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151102.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151201.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151301.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151401.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151501.xlsx
+before loading secret
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151602.xlsx
+before loading secret
+in secrets loader
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151701.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151802.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_151901.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152001.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152102.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152202.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152301.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152401.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152502.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152601.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152701.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152802.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_152901.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153002.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153101.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153201.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153301.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153401.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153502.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153601.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153702.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153801.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_153902.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154001.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154101.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154202.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154301.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154402.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154501.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154601.xlsx
+before loading secret
+in secrets loader
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154702.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154801.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_154901.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155102.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155201.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155301.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155401.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155502.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155601.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155701.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155801.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_155902.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160101.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160202.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160301.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160401.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160502.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160601.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160702.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160801.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_160901.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161102.xlsx
+before loading secret
+in secrets loader
+Using credentials from: None
+launch session
+執行失敗：Loading Dropbox token failed: Unable to locate credentials
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161201.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f802a210c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_161201.xlsx
+output path: filled_20250519_161201.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_161201.xlsx
+AWS_ACCESS_KEY_ID: AKIAQWPPM4CJ7XFY3F2Y
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161301.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f916de24c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_161301.xlsx
+output path: filled_20250519_161301.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_161301.xlsx
+AWS_ACCESS_KEY_ID: AKIAQWPPM4CJ7XFY3F2Y
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161401.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f45d6d64c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_161401.xlsx
+output path: filled_20250519_161401.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_161401.xlsx
+AWS_ACCESS_KEY_ID: AKIAQWPPM4CJ7XFY3F2Y
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161501.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fd0b2f10c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_161501.xlsx
+output path: filled_20250519_161501.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_161501.xlsx
+AWS_ACCESS_KEY_ID: AKIAQWPPM4CJ7XFY3F2Y
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_161601.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f3db0330c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_161601.xlsx
+output path: filled_20250519_161601.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_161601.xlsx
+AWS_ACCESS_KEY_ID: AKIAQWPPM4CJ7XFY3F2Y
+/home/oem/wordpress-docker/.venv
+generated excel file: filled_20250519_162001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f0381d94c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_162001.xlsx
+output path: filled_20250519_162001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_162001.xlsx
+generated excel file: filled_20250519_162502.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fc97c74cc40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_162502.xlsx
+output path: filled_20250519_162502.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_162502.xlsx
+generated excel file: filled_20250519_163002.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fcb062fcc40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_163002.xlsx
+output path: filled_20250519_163002.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_163002.xlsx
+generated excel file: filled_20250519_164001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f64a2834c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_164001.xlsx
+output path: filled_20250519_164001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_164001.xlsx
+generated excel file: filled_20250519_170001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fc5a40ecc40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_170001.xlsx
+output path: filled_20250519_170001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_170001.xlsx
+generated excel file: filled_20250519_172002.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fcec7404c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_172002.xlsx
+output path: filled_20250519_172002.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_172002.xlsx
+generated excel file: filled_20250519_174001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f3dd9dccc40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_174001.xlsx
+output path: filled_20250519_174001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_174001.xlsx
+generated excel file: filled_20250519_180001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fd536950c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_180001.xlsx
+output path: filled_20250519_180001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_180001.xlsx
+generated excel file: filled_20250519_182001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f60b4c20c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_182001.xlsx
+output path: filled_20250519_182001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_182001.xlsx
+generated excel file: filled_20250519_184001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f5dd42d8c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_184001.xlsx
+output path: filled_20250519_184001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_184001.xlsx
+generated excel file: filled_20250519_190002.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f2bd610cc40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_190002.xlsx
+output path: filled_20250519_190002.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_190002.xlsx
+generated excel file: filled_20250519_192001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7fb073a90c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_192001.xlsx
+output path: filled_20250519_192001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_192001.xlsx
+generated excel file: filled_20250519_194001.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f5fda774c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_194001.xlsx
+output path: filled_20250519_194001.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_194001.xlsx
+generated excel file: filled_20250519_200002.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f9c7e3e4c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_200002.xlsx
+output path: filled_20250519_200002.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_200002.xlsx
+generated excel file: filled_20250519_202002.xlsx
+before loading secret
+in secrets loader
+Using credentials from: <botocore.credentials.Credentials object at 0x7f319a4d0c40>
+launch session
+get secret value response
+get secret success
+{"DROPBOX_REFRESH_TOKEN":"UGMbICS8Xw4AAAAAAAAAAb5gnzMyzwQU_hrrdyLAWxdhWGdb1E6MbSFvkCKKy75c","DROPBOX_APP_KEY":"3lv3v8xymi05d3y","DROPBOX_APP_SECRET":"vzb97u4mxtuymzh","DROPBOX_FOLDER":"/upload reports"}
+after secret
+Uploaded to Dropbox: /upload reports/filled_20250519_202002.xlsx
+output path: filled_20250519_202002.xlsx
+Excel report has been uploaded: /upload reports/filled_20250519_202002.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7fa441331ae0>
+get secret success
+執行失敗：upload failed: ApiError('bd88d361a8a848d28d529cb977766b1e', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNXrOyFrLY4MRvnelQKkKJ6RHadkwk_HmRGCVtnIWHDfmhA')))
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7fb17ef31ab0>
+get secret success
+執行失敗：upload failed: ApiError('3cead2783997458580b383f32efcbe57', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNguSZCrZWMqh2oYlRWIrVYy1y2yQTIIxHQPmPCHCb-uJUA')))
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7fbb77dedab0>
+get secret success
+執行失敗：upload failed: ApiError('b23d2495c3e343c491a55f22798cb066', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNn7mS475JwkwP9qD7sJG7ZNT6gVg3Gyw1nlIl9N3LMpAWg')))
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7f155ce51ab0>
+get secret success
+執行失敗：upload failed: ApiError('20024e565df040c5b5fc87731272cf79', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNqhSEdbVtGdfyIeiafGhZ2ZtlmYm4H9AucLbSr86dTn6Zw')))
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7f07e0589ab0>
+get secret success
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: Grok_20250520_001603.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7f07dfc71f00>
+get secret success
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7f32a8159ab0>
+get secret success
+執行失敗：upload failed: ApiError('d21a387aa293434586dd0e46e16c230d', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNupWiOktTPWvUygtNPJOObh6d_kEPEyh91e1XwUUvUZz9g')))
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7faab2869ab0>
+get secret success
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: Grok_20250520_001603.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7faab1f4df00>
+get secret success
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7fcf8b7b1ab0>
+get secret success
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: Grok_20250520_001603.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7fcf8ae99f00>
+get secret success
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+['EKOW']
+<Worksheet "EKOW">
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7f3e0272dab0>
+執行失敗：upload failed: ApiError('14d9d1d0ffa84145afe58635a24a6072', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNppFKlv3UFxoPrfvIXLX5lU5NdJ5um9CFsOpsESShCaDgw')))
+Generated Excel file: EKOW_20250520_001307.xlsx
+Using credentials from: <botocore.credentials.Credentials object at 0x7f02377f5990>
+執行失敗：upload failed: ApiError('d93c0fbc8cd04568a78177598db0f6d3', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNmDiZBwxZyLb3R0b4Jv5iPCFp6QCvZ2JdRHh6eOMe1wm7g')))
+Generated Excel file: EKOW_20250520_001307.xlsx
+執行失敗：upload failed: ApiError('17796696470f4b92a4341fa5ce85bbed', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNoDLmtP1nHVS6DccRWbwYylaOlAifT321Dd-6PLi-TRqIg')))
+Generated Excel file: EKOW_20250520_001307.xlsx
+執行失敗：upload failed: ApiError('adc39658f341448686004ec02e38cd64', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNjy8TKXUH1WrxMOhjrTJI7Yx3RItn3s3euaKLz0HA-EccA')))
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+執行失敗：upload failed: ApiError('8fb895fbd6c34fc9a79c664a562dabd0', UploadError('path', UploadWriteFailed(reason=WriteError('conflict', WriteConflictError('file', None)), upload_session_id='pid_upload_session:ABIJNmiWlIXiYpTP_nLY6IXY1L4pCQUe3ydDpi0aNt5xlB1SfA')))
+Generated Excel file: EKOW_20250520_001307.xlsx
+執行失敗：upload failed: name 'WriteMode' is not defined
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Guploadrok_20250520_001603.xlsx
+Excel report has been uploaded: / reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EDS_20250520_154321.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154321.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154321.xlsx
+Generated Excel file: EDS_20250520_154502.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154502.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154502.xlsx
+Generated Excel file: 1_20250520_161352.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_161352.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_161352.xlsx
+Generated Excel file: 1_20250520_222148.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_222148.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_222148.xlsx
+Generated Excel file: 1_20250520_225223.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_225223.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_225223.xlsx
+Generated Excel file: JACOB_20250520_225533.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_225533.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_225533.xlsx
+已刪除 temp_photos 資料夾。
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EDS_20250520_154321.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154321.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154321.xlsx
+Generated Excel file: EDS_20250520_154502.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154502.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154502.xlsx
+Generated Excel file: 1_20250520_161352.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_161352.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_161352.xlsx
+Generated Excel file: 1_20250520_222148.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_222148.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_222148.xlsx
+Generated Excel file: 1_20250520_225223.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_225223.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_225223.xlsx
+Generated Excel file: JACOB_20250520_225533.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_225533.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_225533.xlsx
+Generated Excel file: JACOB_20250520_230348.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_230348.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_230348.xlsx
+Generated Excel file: ITTRAINING_20250520_230556.xlsx
+Uploaded to Dropbox: /upload reports/ITTRAINING_20250520_230556.xlsx
+Excel report has been uploaded: /upload reports/ITTRAINING_20250520_230556.xlsx
+已刪除 temp_photos 資料夾。
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EDS_20250520_154321.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154321.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154321.xlsx
+Generated Excel file: EDS_20250520_154502.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154502.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154502.xlsx
+Generated Excel file: 1_20250520_161352.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_161352.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_161352.xlsx
+Generated Excel file: 1_20250520_222148.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_222148.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_222148.xlsx
+Generated Excel file: 1_20250520_225223.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_225223.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_225223.xlsx
+Generated Excel file: JACOB_20250520_225533.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_225533.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_225533.xlsx
+Generated Excel file: JACOB_20250520_230348.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_230348.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_230348.xlsx
+Generated Excel file: ITTRAINING_20250520_230556.xlsx
+Uploaded to Dropbox: /upload reports/ITTRAINING_20250520_230556.xlsx
+Excel report has been uploaded: /upload reports/ITTRAINING_20250520_230556.xlsx
+已刪除 temp_photos 資料夾。
+Generated Excel file: EKOW_20250520_001307.xlsx
+Uploaded to Dropbox: /upload reports/EKOW_20250520_001307.xlsx
+Excel report has been uploaded: /upload reports/EKOW_20250520_001307.xlsx
+Generated Excel file: Grok_20250520_001603.xlsx
+Uploaded to Dropbox: /upload reports/Grok_20250520_001603.xlsx
+Excel report has been uploaded: /upload reports/Grok_20250520_001603.xlsx
+Generated Excel file: EDS_20250520_154321.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154321.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154321.xlsx
+Generated Excel file: EDS_20250520_154502.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154502.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154502.xlsx
+Generated Excel file: 1_20250520_161352.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_161352.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_161352.xlsx
+Generated Excel file: 1_20250520_222148.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_222148.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_222148.xlsx
+Generated Excel file: 1_20250520_225223.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_225223.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_225223.xlsx
+Generated Excel file: JACOB_20250520_225533.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_225533.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_225533.xlsx
+Generated Excel file: JACOB_20250520_230348.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_230348.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_230348.xlsx
+Generated Excel file: ITTRAINING_20250520_230556.xlsx
+Uploaded to Dropbox: /upload reports/ITTRAINING_20250520_230556.xlsx
+Excel report has been uploaded: /upload reports/ITTRAINING_20250520_230556.xlsx
+已刪除 temp_photos 資料夾。
+Generated Excel file: EDS_20250520_154321.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154321.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154321.xlsx
+Generated Excel file: EDS_20250520_154502.xlsx
+Uploaded to Dropbox: /upload reports/EDS_20250520_154502.xlsx
+Excel report has been uploaded: /upload reports/EDS_20250520_154502.xlsx
+Generated Excel file: 1_20250520_161352.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_161352.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_161352.xlsx
+Generated Excel file: 1_20250520_222148.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_222148.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_222148.xlsx
+Generated Excel file: 1_20250520_225223.xlsx
+Uploaded to Dropbox: /upload reports/1_20250520_225223.xlsx
+Excel report has been uploaded: /upload reports/1_20250520_225223.xlsx
+Generated Excel file: JACOB_20250520_225533.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_225533.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_225533.xlsx
+Generated Excel file: JACOB_20250520_230348.xlsx
+Uploaded to Dropbox: /upload reports/JACOB_20250520_230348.xlsx
+Excel report has been uploaded: /upload reports/JACOB_20250520_230348.xlsx
+Generated Excel file: ITTRAINING_20250520_230556.xlsx
+Uploaded to Dropbox: /upload reports/ITTRAINING_20250520_230556.xlsx
+Excel report has been uploaded: /upload reports/ITTRAINING_20250520_230556.xlsx
+已刪除 temp_photos 資料夾。
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'wpdb.wp_submission_data' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/oem/wordpress-docker/main.py", line 179, in main
+    data = fetch_latest_submission()
+  File "/home/oem/wordpress-docker/main.py", line 44, in fetch_latest_submission
+    cursor.execute(sql)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/oem/wordpress-docker/.venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+執行失敗：1146 (42S02): Table 'wpdb.wp_submission_data' doesn't exist
+開始獲取最新提交的資料...
+在過去 5 分鐘內未找到新提交的資料。嘗試獲取最近的資料...
+找到最新的一筆資料，ID: 11, 時間: 2025-05-21 04:12:51
+找到 1 筆資料
+處理報告: 1212_20250521_041251.xlsx
+處理資料: 1212, ID: 11
+資料欄位:
+  id: 11
+  user_id: 1
+  machine_name: 1212
+  job_number: 1212
+  date_submitted: 2025-05-21
+  site_address: 1212
+  model_number: 1212
+  serial_number: 1212
+  equipment_type: 1212
+  travel_date: 2025-05-21
+  travel_hours: 1212
+  travel_arrived: 1212
+  travel_miles: 1212
+  onsite_date: 2025-05-21
+  onsite_start: 1212
+  onsite_end: 1212
+  work_description: 1212
+  created_at: 2025-05-21 04:12:51
+  photo_url: http://localhost:8080/wp-content/uploads/2025/05/fff-3.jpg
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/fff-3.jpg
+下載圖片 1/1: http://localhost:8080/wp-content/uploads/2025/05/fff-3.jpg
+圖片下載成功: temp_photos/image_0.jpg
+共下載 1 張圖片
+下載的圖片數量: 1
+已添加圖片到位置 M5
+已生成 Excel 檔案: 1212_20250521_041251.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/1212_20250521_041251.xlsx
+Excel 報告已上傳: /upload reports/1212_20250521_041251.xlsx
+已刪除 temp_photos 資料夾。
+已刪除暫存圖片: temp_resized_image_0.jpg
+處理完成
+開始獲取最新提交的資料...
+在過去 5 分鐘內未找到新提交的資料。嘗試獲取最近的資料...
+找到最新的一筆資料，ID: 11, 時間: 2025-05-21 04:12:51
+找到 1 筆資料
+處理報告: 1212_20250521_041251.xlsx
+處理資料: 1212, ID: 11
+資料欄位:
+  id: 11
+  user_id: 1
+  machine_name: 1212
+  job_number: 1212
+  date_submitted: 2025-05-21
+  site_address: 1212
+  model_number: 1212
+  serial_number: 1212
+  equipment_type: 1212
+  travel_date: 2025-05-21
+  travel_hours: 1212
+  travel_arrived: 1212
+  travel_miles: 1212
+  onsite_date: 2025-05-21
+  onsite_start: 1212
+  onsite_end: 1212
+  work_description: 1212
+  created_at: 2025-05-21 04:12:51
+  photo_url: http://localhost:8080/wp-content/uploads/2025/05/fff-3.jpg
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/fff-3.jpg
+下載圖片 1/1: http://localhost:8080/wp-content/uploads/2025/05/fff-3.jpg
+圖片下載成功: temp_photos/image_0.jpg
+共下載 1 張圖片
+下載的圖片數量: 1
+已添加圖片到位置 M5
+已生成 Excel 檔案: 1212_20250521_041251.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/1212_20250521_041251.xlsx
+Excel 報告已上傳: /upload reports/1212_20250521_041251.xlsx
+已刪除 temp_photos 資料夾。
+已刪除暫存圖片: temp_resized_image_0.jpg
+處理完成
+開始獲取最新提交的資料...
+在過去 5 分鐘內未找到新提交的資料。嘗試獲取最近的資料...
+找到最新的一筆資料，ID: 12, 時間: 2025-05-21 04:22:10
+找到 1 筆資料
+處理報告: 1221_20250521_042210.xlsx
+處理資料: 1221, ID: 12
+資料欄位:
+  id: 12
+  user_id: 1
+  machine_name: 1221
+  job_number: 1221
+  date_submitted: 2025-05-21
+  site_address: 1221
+  model_number: 1221
+  serial_number: 1221
+  equipment_type: 1221
+  travel_date: 2025-05-21
+  travel_hours: 1221
+  travel_arrived: 1221
+  travel_miles: 1221
+  onsite_date: 2025-05-21
+  onsite_start: 1221
+  onsite_end: 1221
+  work_description: 1221
+  created_at: 2025-05-21 04:22:10
+  photo_url: http://localhost:8080/wp-content/uploads/2025/05/extend.png,http://localhost:8080/wp-content/uploads/2025/05/error.png,http://localhost:8080/wp-content/uploads/2025/05/eee-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/dropbox_scopes-1.png,http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization-1.png,http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-2.png
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/extend.png,http://localhost:8080/wp-content/uploads/2025/05/error.png,http://localhost:8080/wp-content/uploads/2025/05/eee-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/dropbox_scopes-1.png,http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization-1.png,http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-2.png
+下載圖片 1/6: http://localhost:8080/wp-content/uploads/2025/05/extend.png
+圖片下載成功: temp_photos/image_0.jpg
+下載圖片 2/6: http://localhost:8080/wp-content/uploads/2025/05/error.png
+圖片下載成功: temp_photos/image_1.jpg
+下載圖片 3/6: http://localhost:8080/wp-content/uploads/2025/05/eee-2.jpg
+圖片下載成功: temp_photos/image_2.jpg
+下載圖片 4/6: http://localhost:8080/wp-content/uploads/2025/05/dropbox_scopes-1.png
+圖片下載成功: temp_photos/image_3.jpg
+下載圖片 5/6: http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization-1.png
+圖片下載成功: temp_photos/image_4.jpg
+下載圖片 6/6: http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-2.png
+圖片下載成功: temp_photos/image_5.jpg
+共下載 6 張圖片
+下載的圖片數量: 6
+添加圖片失敗: cannot write mode RGBA as JPEG
+添加圖片失敗: cannot write mode RGBA as JPEG
+已添加圖片到位置 Y5
+添加圖片失敗: cannot write mode RGBA as JPEG
+添加圖片失敗: cannot write mode RGBA as JPEG
+已添加圖片到位置 Y26
+已生成 Excel 檔案: 1221_20250521_042210.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/1221_20250521_042210.xlsx
+Excel 報告已上傳: /upload reports/1221_20250521_042210.xlsx
+已刪除 temp_photos 資料夾。
+已刪除暫存圖片: temp_resized_image_2.jpg
+已刪除暫存圖片: temp_resized_image_5.jpg
+處理完成
+開始獲取最新提交的資料...
+在過去 5 分鐘內未找到新提交的資料。嘗試獲取最近的資料...
+找到最新的一筆資料，ID: 13, 時間: 2025-05-21 05:44:37
+找到 1 筆資料
+處理報告: M1343_20250521_054437.xlsx
+處理資料: M1343, ID: 13
+資料欄位:
+  id: 13
+  user_id: 1
+  machine_name: M1343
+  job_number: M1343
+  date_submitted: 2025-05-21
+  site_address: M1343
+  model_number: M1343
+  serial_number: M1343
+  equipment_type: M1343
+  travel_date: 2025-05-21
+  travel_hours: M1343
+  travel_arrived: M1343
+  travel_miles: M1343
+  onsite_date: 2025-05-21
+  onsite_start: M1343
+  onsite_end: M1343
+  work_description: M1343
+  created_at: 2025-05-21 05:44:37
+  photo_url: http://localhost:8080/wp-content/uploads/2025/05/fff.jpg,http://localhost:8080/wp-content/uploads/2025/05/error.png
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/fff.jpg,http://localhost:8080/wp-content/uploads/2025/05/error.png
+下載圖片 1/2: http://localhost:8080/wp-content/uploads/2025/05/fff.jpg
+圖片下載成功: temp_photos/image_0.jpg
+下載圖片 2/2: http://localhost:8080/wp-content/uploads/2025/05/error.png
+圖片下載成功: temp_photos/image_1.jpg
+共下載 2 張圖片
+下載的圖片數量: 2
+已添加圖片到位置 M5
+添加圖片失敗: cannot write mode RGBA as JPEG
+已生成 Excel 檔案: M1343_20250521_054437.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/M1343_20250521_054437.xlsx
+Excel 報告已上傳: /upload reports/M1343_20250521_054437.xlsx
+已刪除 temp_photos 資料夾。
+已刪除暫存圖片: temp_resized_image_0.jpg
+處理完成
+開始獲取最新提交的資料...
+在過去 5 分鐘內未找到新提交的資料。嘗試獲取最近的資料...
+找到最新的一筆資料，ID: 14, 時間: 2025-05-21 06:05:20
+找到 1 筆資料
+處理報告: 1404_20250521_060520.xlsx
+處理資料: 1404, ID: 14
+資料欄位:
+  id: 14
+  user_id: 1
+  machine_name: 1404
+  job_number: 1404
+  date_submitted: 2025-05-21
+  site_address: 1404
+  model_number: 1404
+  serial_number: 1404
+  equipment_type: 1404
+  travel_date: 2025-05-21
+  travel_hours: 1404
+  travel_arrived: 1404
+  travel_miles: 1404
+  onsite_date: 2025-05-21
+  onsite_start: 1404
+  onsite_end: 1404
+  work_description: 1404
+  created_at: 2025-05-21 06:05:20
+  photo_url: http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization.png
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization.png
+下載圖片 1/1: http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization.png
+圖片下載成功: temp_photos/image_0.jpg
+共下載 1 張圖片
+下載的圖片數量: 1
+添加圖片失敗: cannot write mode RGBA as JPEG
+已生成 Excel 檔案: 1404_20250521_060520.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/1404_20250521_060520.xlsx
+Excel 報告已上傳: /upload reports/1404_20250521_060520.xlsx
+已刪除 temp_photos 資料夾。
+處理完成
+開始獲取最新提交的資料...
+未找到任何新提交的資料，程序退出。
+開始獲取最新提交的資料...
+找到 1 筆資料
+處理報告: M1559_20250521_155934.xlsx
+處理資料: M1559, ID: 18
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/eee-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/dropbox_scopes-1.png,http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization-2.png,http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-3.png
+分割 URL 字串，找到 4 個 URL
+清理後剩餘 4 個有效 URL
+處理圖片 1/4: http://localhost:8080/wp-content/uploads/2025/05/eee-2.jpg
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/eee-2.jpg
+複製本地檔案成功: temp_photos/image_0.jpg
+處理圖片 2/4: http://localhost:8080/wp-content/uploads/2025/05/dropbox_scopes-1.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/dropbox_scopes-1.png
+複製本地檔案成功: temp_photos/image_1.png
+處理圖片 3/4: http://localhost:8080/wp-content/uploads/2025/05/dropbox-login_consent_authorization-2.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/dropbox-login_consent_authorization-2.png
+複製本地檔案成功: temp_photos/image_2.png
+處理圖片 4/4: http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-3.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-3.png
+複製本地檔案成功: temp_photos/image_3.png
+共下載 4 張圖片
+下載的圖片數量: 4
+可用的照片位置數量: 9
+將處理 4 張照片
+處理第 1 張照片，原始路徑: temp_photos/image_0.jpg
+原始圖片資訊: 尺寸=(2500, 1669), 格式=JPEG, 模式=RGB
+圖片已轉換為 JPEG: temp_resized_image_0.jpg
+縮放後的圖片路徑: temp_resized_image_0.jpg
+已將圖片添加到位置 M5
+處理第 2 張照片，原始路徑: temp_photos/image_1.png
+原始圖片資訊: 尺寸=(884, 492), 格式=PNG, 模式=RGBA
+圖片有透明通道，轉換為 RGB 模式
+圖片已轉換為 JPEG: temp_resized_image_1.jpg
+縮放後的圖片路徑: temp_resized_image_1.jpg
+已將圖片添加到位置 S5
+處理第 3 張照片，原始路徑: temp_photos/image_2.png
+原始圖片資訊: 尺寸=(899, 640), 格式=PNG, 模式=RGBA
+圖片有透明通道，轉換為 RGB 模式
+圖片已轉換為 JPEG: temp_resized_image_2.jpg
+縮放後的圖片路徑: temp_resized_image_2.jpg
+已將圖片添加到位置 Y5
+處理第 4 張照片，原始路徑: temp_photos/image_3.png
+原始圖片資訊: 尺寸=(1024, 1536), 格式=PNG, 模式=RGB
+圖片已轉換為 JPEG: temp_resized_image_3.jpg
+縮放後的圖片路徑: temp_resized_image_3.jpg
+已將圖片添加到位置 M26
+成功插入 4 張照片到 Excel
+已生成 Excel 檔案: M1559_20250521_155934.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/M1559_20250521_155934.xlsx
+Excel 報告已上傳: /upload reports/M1559_20250521_155934.xlsx
+已刪除 temp_photos 資料夾。
+已刪除暫存圖片: temp_resized_image_2.jpg
+已刪除暫存圖片: temp_resized_image_3.jpg
+已刪除暫存圖片: temp_resized_image_1.jpg
+已刪除暫存圖片: temp_resized_image_0.jpg
+處理完成
+開始獲取最新提交的資料...
+找到 1 筆資料
+處理報告: SAM_20250522_122724.xlsx
+處理資料: SAM, ID: 37
+發現照片: http://localhost:8080/wp-content/uploads/2025/05/pic_7PNG-3.png,http://localhost:8080/wp-content/uploads/2025/05/pic_3-2.png,http://localhost:8080/wp-content/uploads/2025/05/pic_2-2.png,http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-2.png,http://localhost:8080/wp-content/uploads/2025/05/pic_5-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/pic_4-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/pic_1-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/pic_6-2.jpg,http://localhost:8080/wp-content/uploads/2025/05/oauth2-diagram.png
+分割 URL 字串，找到 9 個 URL
+清理後剩餘 9 個有效 URL
+處理圖片 1/9: http://localhost:8080/wp-content/uploads/2025/05/pic_7PNG-3.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_7PNG-3.png
+複製本地檔案成功: temp_photos/image_0.png
+處理圖片 2/9: http://localhost:8080/wp-content/uploads/2025/05/pic_3-2.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_3-2.png
+複製本地檔案成功: temp_photos/image_1.png
+處理圖片 3/9: http://localhost:8080/wp-content/uploads/2025/05/pic_2-2.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_2-2.png
+複製本地檔案成功: temp_photos/image_2.png
+處理圖片 4/9: http://localhost:8080/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-2.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_15_51-PM-2.png
+複製本地檔案成功: temp_photos/image_3.png
+處理圖片 5/9: http://localhost:8080/wp-content/uploads/2025/05/pic_5-2.jpg
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_5-2.jpg
+複製本地檔案成功: temp_photos/image_4.jpg
+處理圖片 6/9: http://localhost:8080/wp-content/uploads/2025/05/pic_4-2.jpg
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_4-2.jpg
+複製本地檔案成功: temp_photos/image_5.jpg
+處理圖片 7/9: http://localhost:8080/wp-content/uploads/2025/05/pic_1-2.jpg
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_1-2.jpg
+複製本地檔案成功: temp_photos/image_6.jpg
+處理圖片 8/9: http://localhost:8080/wp-content/uploads/2025/05/pic_6-2.jpg
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/pic_6-2.jpg
+複製本地檔案成功: temp_photos/image_7.jpg
+處理圖片 9/9: http://localhost:8080/wp-content/uploads/2025/05/oauth2-diagram.png
+檢查本地檔案路徑: /home/oem/wordpress-docker/wp-data/wp-content/uploads/2025/05/oauth2-diagram.png
+複製本地檔案成功: temp_photos/image_8.png
+共下載 9 張圖片
+下載的圖片數量: 9
+可用的照片位置數量: 9
+將處理 9 張照片
+處理第 1 張照片，路徑: temp_photos/image_0.png
+原始圖片尺寸: 1669x2500
+縮放後尺寸: 213x320 (縮放比例: 0.128)
+已將圖片添加到位置 M5，尺寸: 213x320
+處理第 2 張照片，路徑: temp_photos/image_1.png
+原始圖片尺寸: 1669x2500
+縮放後尺寸: 213x320 (縮放比例: 0.128)
+已將圖片添加到位置 S5，尺寸: 213x320
+處理第 3 張照片，路徑: temp_photos/image_2.png
+原始圖片尺寸: 1669x2500
+縮放後尺寸: 213x320 (縮放比例: 0.128)
+已將圖片添加到位置 Y5，尺寸: 213x320
+處理第 4 張照片，路徑: temp_photos/image_3.png
+原始圖片尺寸: 1024x1536
+縮放後尺寸: 213x320 (縮放比例: 0.208)
+已將圖片添加到位置 M26，尺寸: 213x320
+處理第 5 張照片，路徑: temp_photos/image_4.jpg
+原始圖片尺寸: 2500x1669
+縮放後尺寸: 400x267 (縮放比例: 0.160)
+已將圖片添加到位置 S26，尺寸: 400x267
+處理第 6 張照片，路徑: temp_photos/image_5.jpg
+原始圖片尺寸: 2500x1669
+縮放後尺寸: 400x267 (縮放比例: 0.160)
+已將圖片添加到位置 Y26，尺寸: 400x267
+處理第 7 張照片，路徑: temp_photos/image_6.jpg
+原始圖片尺寸: 2500x1669
+縮放後尺寸: 400x267 (縮放比例: 0.160)
+已將圖片添加到位置 M47，尺寸: 400x267
+處理第 8 張照片，路徑: temp_photos/image_7.jpg
+原始圖片尺寸: 2500x1669
+縮放後尺寸: 400x267 (縮放比例: 0.160)
+已將圖片添加到位置 S47，尺寸: 400x267
+處理第 9 張照片，路徑: temp_photos/image_8.png
+原始圖片尺寸: 739x760
+縮放後尺寸: 311x320 (縮放比例: 0.421)
+已將圖片添加到位置 Y47，尺寸: 311x320
+成功插入 9 張照片到 Excel
+已生成 Excel 檔案: SAM_20250522_122724.xlsx
+上傳 Excel 報告到 Dropbox...
+Uploaded to Dropbox: /upload reports/SAM_20250522_122724.xlsx
+Excel 報告已上傳: /upload reports/SAM_20250522_122724.xlsx
+已刪除 temp_photos 資料夾。
+處理完成

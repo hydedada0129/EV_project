@@ -1,0 +1,171 @@
+<?php
+/**
+ * Plugin Name: Frontend Data Submission
+ * Description: 讓已登入使用者在前端填寫表單並把資料與圖片儲存到自訂資料表與伺服器。
+ * Version: 1.5
+ * Author: 你的名字
+ */
+if (!defined('ABSPATH')) exit;
+
+// 表單送出處理邏輯
+add_action('init', function () {
+    if (isset($_POST['fs_submit'])) {
+        // 儲存表單資料（可依需求插入自訂資料表）
+
+        // 處理圖片上傳
+        if (!function_exists('wp_handle_upload')) {
+            require_once(ABSPATH . 'wp-admin/includes/file.php');
+        }
+
+        $uploaded_files = $_FILES['photos'];
+        $photo_urls = [];
+
+        foreach ($uploaded_files['name'] as $key => $name) {
+            if ($uploaded_files['error'][$key] === UPLOAD_ERR_OK) {
+                $file = [
+                    'name'     => $uploaded_files['name'][$key],
+                    'type'     => $uploaded_files['type'][$key],
+                    'tmp_name' => $uploaded_files['tmp_name'][$key],
+                    'error'    => $uploaded_files['error'][$key],
+                    'size'     => $uploaded_files['size'][$key]
+                ];
+                $upload_overrides = ['test_form' => false];
+                $movefile = wp_handle_upload($file, $upload_overrides);
+
+                if ($movefile && !isset($movefile['error'])) {
+                    $photo_urls[] = $movefile['url'];
+                }
+            }
+        }
+
+        wp_redirect(add_query_arg('submitted', '1', wp_get_referer()));
+        exit;
+    }
+});
+
+// 前端表單短碼
+add_shortcode('frontend_submission', function () {
+    if (!is_user_logged_in()) {
+        return wp_login_form(['echo' => false]);
+    }
+
+    ob_start();
+    ?>
+    <?php if (isset($_GET['submitted'])): ?>
+        <p style="color:green;">資料與圖片已送出成功！</p>
+    <?php endif; ?>
+    <form method="post" enctype="multipart/form-data">
+        <label>Machine Name:</label><br>
+        <input type="text" name="machine_name" required><br>
+
+        <label>JOB #:</label><br>
+        <input type="text" name="job_number" required><br>
+
+        <label>DATE:</label><br>
+        <input type="date" name="date_submitted" required><br>
+
+        <label>SITE ADDRESS:</label><br>
+        <textarea name="site_address" required></textarea><br>
+
+        <label>Model #:</label><br>
+        <input type="text" name="model_number" required><br>
+
+        <label>Serial #:</label><br>
+        <input type="text" name="serial_number" required><br>
+
+        <label>Equipment Type:</label><br>
+        <input type="text" name="equipment_type" required><br>
+
+        <label>Travel Date:</label><br>
+        <input type="date" name="travel_date" required><br>
+
+        <label>Travel Hours:</label><br>
+        <input type="text" name="travel_hours" required><br>
+
+        <label>Arrived:</label><br>
+        <input type="text" name="travel_arrived" required><br>
+
+        <label>Travel Miles:</label><br>
+        <input type="text" name="travel_miles" required><br>
+
+        <label>Onsite Date:</label><br>
+        <input type="date" name="onsite_date" required><br>
+
+        <label>Start:</label><br>
+        <input type="text" name="onsite_start" required><br>
+
+        <label>End:</label><br>
+        <input type="text" name="onsite_end" required><br>
+
+        <label>Work Description:</label><br>
+        <textarea name="work_description" required></textarea><br>
+
+        <label>上傳照片（可多張，可刪除）:</label><br>
+        <input type="file" name="photos[]" id="photoInput" multiple accept=".jpg,.jpeg,.png"><br>
+        <div id="preview" style="margin-top: 10px;"></div>
+        <input type="hidden" name="photo_list" id="photoList">
+
+        <button type="submit" name="fs_submit">送出</button>
+    </form>
+
+    <script>
+    const input = document.getElementById("photoInput");
+    const preview = document.getElementById("preview");
+    let photoFiles = [];
+
+    input.addEventListener("change", function () {
+        for (let file of input.files) {
+            photoFiles.push(file);
+        }
+        updatePreview();
+    });
+
+    function updatePreview() {
+        preview.innerHTML = "";
+        photoFiles.forEach((file, i) => {
+            const index = i;
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const container = document.createElement("div");
+                container.style.display = "inline-block";
+                container.style.margin = "5px";
+                container.style.textAlign = "center";
+
+                const img = document.createElement("img");
+                img.src = e.target.result;
+                img.style.maxWidth = "100px";
+                img.style.display = "block";
+
+                const name = document.createElement("div");
+                name.textContent = file.name;
+                name.style.fontSize = "12px";
+                name.style.overflow = "hidden";
+                name.style.textOverflow = "ellipsis";
+                name.style.whiteSpace = "nowrap";
+                name.style.maxWidth = "100px";
+
+                const btn = document.createElement("button");
+                btn.textContent = "刪除";
+                btn.type = "button";
+                btn.style.fontSize = "12px";
+                btn.onclick = function () {
+                    photoFiles.splice(index, 1);
+                    updatePreview();
+                };
+
+                container.appendChild(img);
+                container.appendChild(name);
+                container.appendChild(btn);
+                preview.appendChild(container);
+            }
+            reader.readAsDataURL(file);
+        });
+
+        const dataTransfer = new DataTransfer();
+        photoFiles.forEach(file => dataTransfer.items.add(file));
+        input.files = dataTransfer.files;
+    }
+    </script>
+    <?php
+    return ob_get_clean();
+});

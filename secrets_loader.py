@@ -8,12 +8,14 @@ from botocore.exceptions import ClientError
 
 
 def get_secret():
-
     secret_name = "dropbox/refresh-token"
     region_name = "us-east-2"
 
     # Create a Secrets Manager client
     session = boto3.session.Session()
+    
+    # print("Using credentials from:", session.get_credentials())
+
     client = session.client(
         service_name='secretsmanager',
         region_name=region_name
@@ -29,8 +31,7 @@ def get_secret():
         raise e
 
     secret = get_secret_value_response['SecretString']
-    # secret = get_secret_value_response
-
+    
     return secret
     
     # Your code goes here.

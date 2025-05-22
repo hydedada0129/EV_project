@@ -311,7 +311,9 @@ add_shortcode('frontend_submission', function () {
         <label>Travel Date:</label>
         <input type="date" name="travel_date" required>
 
-        <label>Travel Hours:</label>
+        <label>Travel To and From Site</label>
+
+        <label>Travel h:</label>
         <input type="text" name="travel_hours" required>
 
         <label>Arrived:</label>
@@ -332,7 +334,7 @@ add_shortcode('frontend_submission', function () {
         <label>Work Description:</label>
         <textarea name="work_description" required></textarea>
 
-        <label>上傳照片: (每個檔案最大 8MB)</label>
+        <label>上傳照片: (每個檔案最大 7MB. Max Qty: 9 images)</label>
         <input type="file" name="photos[]" multiple accept=".jpg,.jpeg,.png" id="photo-upload">
         <p class="file-size-warning" style="color:red;display:none;">檔案過大，請確保每個檔案小於 8MB</p>
 
