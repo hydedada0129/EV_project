@@ -2,3 +2,6 @@
 aws_credentials.env
 godday_MC_SIGNIN.png
 db-data/
+lambda_function/
+cron_log.txt
+prompts.txt
