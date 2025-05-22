@@ -36,7 +36,7 @@ def fetch_latest_submission():
                onsite_date, onsite_start, onsite_end, work_description, 
                created_at, photo_url
         FROM wp_submissions
-        WHERE created_at >= NOW() - INTERVAL 60 MINUTE
+        WHERE created_at >= NOW() - INTERVAL 5 MINUTE
     """
     
     try:
