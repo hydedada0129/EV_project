@@ -1,0 +1,1 @@
+*/5 * * * * /home/oem/wordpress-docker/run_script.sh >> /home/oem/wordpress-docker/cron_log.txt 2>&1
