@@ -1,0 +1,31 @@
+services:
+  wordpress: 
+    image: wordpress:php8.0-apache
+    
+    ports:
+      #  - "8080:80" #把容器的 80 埠映射到主機 
+      - "80:80"
+    environment:
+      WORDPRESS_DB_HOST: db #讓 WordPress 容器自動知道要連到哪個 MySQL 主機
+      WORDPRESS_DB_USER: wpuser
+      WORDPRESS_DB_PASSWORD: wppassword
+      WORDPRESS_DB_NAME: wpdb
+    volumes:
+      - ./wp-data:/var/www/html   #掛載你本機的 ./wp-data 到容器的 /var/www/html
+                                  #將你的 WordPress 程式碼跟上傳檔案保存在主機目錄，可直接用編輯器修改、重啟容器後不丟失。
+      - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+  db: #設定 MySQL
+    image: mysql:5.7
+
+    #if you run your script on local machine, you will need to map the local port 3007 to container port 3306.
+    #ports:
+    #  - "3007:3306" 
+    environment:  
+      TZ: Asia/Taipei   # 加上這一行設定時區
+      MYSQL_DATABASE: wpdb  #在 MySQL 容器啟動時自動建立指定的資料庫與使用者
+      MYSQL_USER: wpuser
+      MYSQL_PASSWORD: wppassword
+      MYSQL_ROOT_PASSWORD: rootpassword
+    volumes:
+      - ./db-data:/var/lib/mysql  #掛載本機的 ./db-data 到容器的 MySQL 資料資料夾
+                                  #把 MySQL 的資料庫檔案存在主機上，容器刪除重建也能保留所有資料。
