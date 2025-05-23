@@ -1498,3 +1498,5 @@ Uploaded to Dropbox: /upload reports/SAM_20250522_122724.xlsx
 Excel 報告已上傳: /upload reports/SAM_20250522_122724.xlsx
 已刪除 temp_photos 資料夾。
 處理完成
+開始獲取最新提交的資料...
+未找到任何新提交的資料，程序退出。
