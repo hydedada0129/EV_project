@@ -1,0 +1,49 @@
+# Python
+wp-data/scripts/venv/
+wp-data/scripts/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# WordPress core & runtime data (adjust if you need to track specific themes/plugins)
+# This ignores everything in wp-data by default.
+wp-data/*
+# Then, explicitly UN-ignore the 'scripts' directory that holds your custom code.
+!wp-data/scripts/
+# Now, re-ignore things inside wp-data/scripts that we still don't want:
+wp-data/scripts/venv/
+wp-data/scripts/__pycache__/
+wp-data/scripts/*.xlsx # Ignore generated Excel files in scripts
+# If Report_Template_without_pics.xlsx is a template inside wp-data/scripts, unignore it:
+# !wp-data/scripts/Report_Template_without_pics.xlsx
+
+# Database data
+db-data/
+
+# Logs & Temporary files
+cron_log.txt
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Generated files (like Excel reports from your script)
+# If Report_Template_without_pics.xlsx is in the root and IS a template:
+# !Report_Template_without_pics.xlsx
+# else, if all .xlsx in root are generated:
+*.xlsx
+
+# IDE and OS specific
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Credentials - IMPORTANT
+wp-data/scripts/aws_credentials.env
+*.env # General rule, .env.example files are okay to track
+
+# Backups
+backups/
