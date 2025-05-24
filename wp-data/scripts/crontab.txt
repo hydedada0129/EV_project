@@ -1,0 +1,2 @@
+0 2 * * * /home/ubuntu/wordpress-docker/wp-data/scripts/run_script.sh >> /home/ubuntu/wordpress-docker/cron_log.txt 2>&1
+

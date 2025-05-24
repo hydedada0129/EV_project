@@ -8,4 +8,4 @@ source aws_credentials.env
 # echo "AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID"
 
 # echo $VIRTUAL_ENV
-/home/ubuntu/wordpress-docker/wp-data/scripts/venv/bin/python main.py
+/home/ubuntu/wordpress-docker/wp-data/scripts/venv/bin/python3 main.py
