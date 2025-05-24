@@ -1,0 +1,7 @@
+mysql-connector-python>=8.0.0
+openpyxl>=3.0.0
+Pillow>=9.0.0  # 注意：Pillow 是 PIL 的維護版本
+boto3>=1.20.0
+requests>=2.25.0
+python-dotenv>=0.19.0
+dropbox>=11.0.0

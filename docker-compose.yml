@@ -5,7 +5,20 @@ services:
     ports:
       #  - "8080:80" #把容器的 80 埠映射到主機 
       - "80:80"
+      - "443:443"
+
     environment:
+      TZ: Asia/Taipei  # 加入這行
+      WORDPRESS_CONFIG_EXTRA: |
+          define("WP_HOME", "http://e-powerintelligent.com");
+          define("WP_SITEURL", "http://e-powerintelligent.com");
+          #  define("FORCE_SSL_ADMIN", true);  
+          
+      # output error log:
+      #WORDPRESS_DEBUG: 1
+      #WORDPRESS_CONFIG_EXTRA: |
+      #    define( 'WP_DEBUG_LOG', true );
+      #    define( 'WP_DEBUG_DISPLAY', false );
       WORDPRESS_DB_HOST: db #讓 WordPress 容器自動知道要連到哪個 MySQL 主機
       WORDPRESS_DB_USER: wpuser
       WORDPRESS_DB_PASSWORD: wppassword
@@ -14,14 +27,20 @@ services:
       - ./wp-data:/var/www/html   #掛載你本機的 ./wp-data 到容器的 /var/www/html
                                   #將你的 WordPress 程式碼跟上傳檔案保存在主機目錄，可直接用編輯器修改、重啟容器後不丟失。
       - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+      # 加入這一行，將時區設定文件掛載進去
+      - ./timezone.ini:/usr/local/etc/php/conf.d/timezone.ini:ro
+      # 加入系統時區掛載
+      - /usr/share/zoneinfo/Asia/Taipei:/etc/localtime:ro
+  
   db: #設定 MySQL
     image: mysql:5.7
 
     #if you run your script on local machine, you will need to map the local port 3007 to container port 3306.
-    #ports:
-    #  - "3007:3306" 
+    ports:
+      #  - "3007:3306"
+      - "3306:3306" 
     environment:  
-      TZ: Asia/Taipei   # 加上這一行設定時區
+      TZ: Asia/Taipei  # 加入這行
       MYSQL_DATABASE: wpdb  #在 MySQL 容器啟動時自動建立指定的資料庫與使用者
       MYSQL_USER: wpuser
       MYSQL_PASSWORD: wppassword

@@ -10,7 +10,8 @@ from upload_to_db import upload_file_to_dropbox
 
 # connect to MySQL
 DB_CONFIG = {
-    'host': 'db',
+    #'host': 'db',
+    'host': '127.0.0.1',
     'port': 3306,
     'user': 'wpuser',
     'password': 'wppassword',
@@ -36,7 +37,7 @@ def fetch_latest_submission():
                onsite_date, onsite_start, onsite_end, work_description, 
                created_at, photo_url
         FROM wp_submissions
-        WHERE created_at >= NOW() - INTERVAL 6 MINUTE
+        WHERE created_at >= NOW() - INTERVAL 5 MINUTE
     """
     
     try:
