@@ -37,7 +37,7 @@ def fetch_latest_submission():
                onsite_date, onsite_start, onsite_end, work_description, 
                created_at, photo_url
         FROM wp_submissions
-        WHERE created_at >= NOW() - INTERVAL 5 MINUTE
+        WHERE created_at >= NOW() - INTERVAL 1 DAY
     """
     
     try:
@@ -238,6 +238,7 @@ def fill_excel(row, output_path):
 
 def main():
     """主函數，負責整個處理流程"""
+    print(f"程式執行開始執行時間： {datetime.now()}")
     try:
         print("開始獲取最新提交的資料...")
         data = fetch_latest_submission()
@@ -271,6 +272,7 @@ def main():
 
         cleanup_temp_photos()
         print("處理完成")
+
 
     except Exception as e:
         print(f"執行失敗：{e}")

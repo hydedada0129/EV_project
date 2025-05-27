@@ -3,9 +3,9 @@ services:
     image: wordpress:php8.0-apache
     
     ports:
-      - "8080:80" #把容器的 80 埠映射到主機 
-        # - "80:80"
-      #- "443:443"     Nginx handles HTTPS port 443
+      #  - "8080:80" #把容器的 80 埠映射到主機 
+      - "80:80"
+      - "443:443"
 
     environment:
       TZ: Asia/Taipei  # 加入這行
@@ -31,10 +31,7 @@ services:
       - ./timezone.ini:/usr/local/etc/php/conf.d/timezone.ini:ro
       # 加入系統時區掛載
       - /usr/share/zoneinfo/Asia/Taipei:/etc/localtime:ro
-    
-    networks:
-      - wordpress_network #use the custom network
-
+  
   db: #設定 MySQL
     image: mysql:5.7
 
@@ -51,13 +48,3 @@ services:
     volumes:
       - ./db-data:/var/lib/mysql  #掛載本機的 ./db-data 到容器的 MySQL 資料資料夾
                                   #把 MySQL 的資料庫檔案存在主機上，容器刪除重建也能保留所有資料。
-    networks:
-      - wordpress_network #use the custom network
-    
-networks:
-  wordpress_network: #define a custom network
-    driver: bridge
-volumes:
-  db_data:
-
-
